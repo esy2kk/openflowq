@@ -1,0 +1,14 @@
+{
+
+    "components": [
+        {
+            "dependencies": [
+                "routeinstaller",
+                "trackhost_pktin",
+                "flowroute record"
+            ],
+            "name": "openflowq", 
+            "library": "openflowq"
+        }
+    ]
+}

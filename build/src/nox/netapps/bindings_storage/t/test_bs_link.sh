@@ -1,0 +1,1 @@
+../../../../../../src/nox/netapps/bindings_storage/t/test_bs_link.sh

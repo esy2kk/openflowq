@@ -1,0 +1,1 @@
+../../../../../../src/nox/coreapps/examples/t/test_example.sh

@@ -1,0 +1,32 @@
+{
+
+    "components": [
+        {
+            "dependences": [
+                "routing_module"
+            ],
+            "name": "routeinstaller",
+            "library": "routeinstaller"
+        },
+        {
+            "python": "nox.apps.routeinstaller.pyrouteinstaller",
+            "dependencies": [
+                "pyrouteinstaller"
+            ],
+            "name": "python routeinstaller"
+        },
+        {
+            "name": "flowroute record",
+            "library": "flowroute_record"
+        },
+        }
+            "dependences": [
+                "routeinstaller",
+                "trackhost_pktin",
+                "flowroute record"
+            ],
+            "name": "openflowq", 
+            "library": "openflowq"
+        }
+    ]
+}
